@@ -139,3 +139,10 @@ LogAnalyzer/cmd/CmdConsoleApp/Program.cs dotnet run
 **Email:** [festteil1406@gmail.com]
 **GitHub:** [https://github.com/festy23]
 
+
+---
+## **4. Технологии**
+
+@ MIT license
+
+
