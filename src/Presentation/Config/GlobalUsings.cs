@@ -1,0 +1,9 @@
+global using Application.UseCases;
+global using Presentation.Interfaces;
+global using Application.DTO;
+global using Application.Enums;
+global using Application.Interfaces.Infrastructure;
+global using Application.Interfaces.Services;
+global using Spectre.Console;
+global using Domain.Entities;
+global using Presentation.Services;
