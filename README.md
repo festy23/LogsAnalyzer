@@ -141,8 +141,6 @@ LogAnalyzer/cmd/CmdConsoleApp/Program.cs dotnet run
 
 
 ---
-## **4. Технологии**
-
 @ MIT license
 
 
